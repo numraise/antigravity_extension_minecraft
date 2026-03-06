@@ -1,0 +1,20 @@
+{
+    "name": "agent-communication",
+    "version": "0.0.1",
+    "description": "Extension สำหรับให้ Agent ส่งข้อความหาผู้เล่น",
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "dependencies": {
+        "core": "*",
+        "minecraft": "*"
+    },
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.1.0"
+    },
+    "preferredEditor": "tsprj"
+}
