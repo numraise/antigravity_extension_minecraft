@@ -1,7 +1,7 @@
 {
     "name": "agent-communication",
     "version": "0.0.1",
-    "description": "Extension สำหรับให้ Agent ส่งข้อความหาผู้เล่น",
+    "description": "Agent Communication extension for Minecraft",
     "files": [
         "main.ts",
         "README.md"

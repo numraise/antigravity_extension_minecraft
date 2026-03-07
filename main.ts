@@ -1,8 +1,7 @@
 /**
- * Extension สำหรับควบคุม Agent ให้สื่อสารกับผู้เล่น
+ * Agent communication extension for Minecraft
  */
-//% color="#D4AF37" icon="\uf11b" block="Agent Communication"
-//% weight=100 color=#D4AF37 icon="\uf11b"
+//% weight=100 color="#D4AF37" icon="\uf11b" block="AgentComm"
 namespace agentComm {
 
     /**
