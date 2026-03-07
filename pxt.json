@@ -1,10 +1,9 @@
 {
-    "name": "agent-communication",
-    "version": "0.0.1",
-    "description": "Agent Communication extension for Minecraft",
+    "name": "agent-talk",
+    "version": "0.0.2",
+    "description": "Simple agent communication",
     "files": [
-        "main.ts",
-        "README.md"
+        "main.ts"
     ],
     "dependencies": {
         "core": "*",
