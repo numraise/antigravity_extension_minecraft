@@ -1,7 +1,7 @@
 /**
- * Agent communication extension for Minecraft
+ * Agent Communication
  */
-//% weight=100 color="#D4AF37" icon="\uf11b" block="AgentComm"
+//% color="#D4AF37" icon="\uf11b" weight=100
 namespace agentComm {
 
     /**
