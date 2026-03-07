@@ -2,6 +2,7 @@
  * Extension สำหรับควบคุม Agent ให้สื่อสารกับผู้เล่น
  */
 //% color="#D4AF37" icon="\uf11b" block="Agent Communication"
+//% weight=100 color=#D4AF37 icon="\uf11b"
 namespace agentComm {
 
     /**
