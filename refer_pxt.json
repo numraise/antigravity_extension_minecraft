@@ -1,7 +1,7 @@
 {
-    "name": "agent-communication",
-    "version": "1.1.0",
-    "description": "Agent Communication extension for Minecraft. ให้ Agent ส่งข้อความหาผู้เล่นและรายงานพิกัด",
+    "name": "agent-guard",
+    "version": "1.0.7",
+    "description": "Detect hostile mobs near the player and alert via chat. ตรวจจับ hostile mob ในระยะที่กำหนดรอบผู้เล่นและแจ้งเตือนผ่านแชท",
     "dependencies": {
         "core": "*",
         "minecraft": "*",
